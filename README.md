@@ -5,3 +5,5 @@
 <p> Bu yöntemle kullanıcı isimleri girilerek ekrana kişinin profik kartı getirildi<p>
 
 <h2> Projede HTML, CSS ve Java Script kullanıldı"<h2>
+
+![](proje%20gif.gif)
